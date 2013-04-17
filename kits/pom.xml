@@ -2,6 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mits</groupId>
   <artifactId>kits</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1-SNAPSHOT</version>
   <name>kits</name>
+  
+  
 </project>
